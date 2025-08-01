@@ -14,29 +14,29 @@ A simple real-time chat application built with **Node.js**, **Express.js**, and 
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
-### Clonning and Running Project 
+### Running project locally
 
-### 1. Clone the Repository
+1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/socketchat.git
 cd socketchat
 
-### 2. Install Dependencies
+2. Install Dependencies
 ```bash
 npm install
 
-### 3. Start the Server
+3. Start the Server
 ```bash
 node server.js
 
-### 4. Open in Browser
+4. Open in Browser
 Go to: http://localhost:3000
 
 ---
 
-## Project Structure
+### Project Structure
 socketchat/
 ├── public/
 │   ├── index.html

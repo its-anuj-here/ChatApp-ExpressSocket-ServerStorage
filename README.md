@@ -36,17 +36,6 @@ Go to: http://localhost:3000
 
 ---
 
-### Project Structure
-socketchat/
-├── public/
-│   ├── index.html
-│   ├── style.css
-│   └── client.js
-├── server.js
-└── package.json
-
----
-
 ## Tech Stack
 - Backend: Node.js + Express.js
 - Real-time: Socket.io

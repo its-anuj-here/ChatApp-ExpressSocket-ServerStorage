@@ -16,6 +16,8 @@ A simple real-time chat application built with **Node.js**, **Express.js**, and 
 
 ## 🛠️ Getting Started
 
+### Clonning and Running Project 
+
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/socketchat.git
